@@ -1,10 +1,10 @@
 <div align="center">
 
-# MADE BY MANIAR ✦
+<img src="./made-by-maniar.png" width="340" alt="Made by Maniar">
 
 ### Ideas, made tangible.
 
-**Observing problems. Exploring ideas. Making them tangible.**
+**Ideas shaped by observation, curiosity and real-world problems.**
 
 <br>
 
