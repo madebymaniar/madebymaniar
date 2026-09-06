@@ -13,24 +13,22 @@ and explore what it could become.**
 
 ---
 
-## ✦ This is Maniar
+## ✦ The Mind Behind Maniar
 
-I'm Mahya — but the ideas live under **Made by Maniar**.
+I'm Mahya — the person behind **Made by Maniar**.
 
-I rarely start with:
+I don't chase ideas just to build something new.
 
-**“What should I build?”**
+I pay attention to the things people have stopped questioning.
 
-I usually start with:
-
-**“Why is this still like this?”**
+> **“Why is this still like this?”**
 
 A confusing process.  
 An unnecessary step.  
 A frustrating experience.  
 A system that works — but could work much better.
 
-Those little moments are usually where the interesting ideas begin.
+That's usually where an idea begins.
 
 I collect friction, question assumptions, connect unlikely dots,  
 and turn observations into things worth exploring.
@@ -47,7 +45,7 @@ A few make it all the way to real products.
 
 ## ✦ What I Notice
 
-I'm interested in the moments where people quietly think:
+I'm drawn to the moments where people quietly think:
 
 > **“There has to be a better way.”**
 
@@ -57,11 +55,12 @@ The process with five steps that should have one.
 
 The information everyone collects but nobody really uses.
 
-The product that works — but still feels wrong.
+The product that technically works — but still feels wrong.
 
-The small inconvenience that reveals a much bigger problem.
+The tiny inconvenience that reveals a much bigger problem.
 
-I like staying with those moments long enough to find the opportunity hiding inside them.
+I like staying with those moments long enough  
+to find the opportunity hiding inside them.
 
 ---
 
@@ -71,11 +70,13 @@ I like staying with those moments long enough to find the opportunity hiding ins
 
 **What if the system noticed the problem before the user did?**
 
-**What if data didn't just explain what happened — but suggested what to do next?**
+**What if data didn't just explain what happened —  
+but suggested what to do next?**
 
 **What if something frustrating could actually feel effortless?**
 
-**What are we accepting as normal simply because nobody questioned it yet?**
+**What are we accepting as normal  
+simply because nobody questioned it yet?**
 
 Questions are usually where my work starts.
 
@@ -84,25 +85,33 @@ Questions are usually where my work starts.
 ## ✦ Things I Make Tangible
 
 ### Ideas
-Observations, possibilities and early “what if?” moments.
+Observations, possibilities and early **“what if?”** moments.
 
 ### Case Notes
-A closer look at a problem, the friction behind it, and possible ways forward.
+A closer look at a problem, the friction behind it,  
+and possible ways forward.
 
 ### Experiments
-Small prototypes created to discover whether an idea deserves to grow.
+Small prototypes created to discover  
+whether an idea deserves to grow.
 
 ### Systems
-Ideas around workflows, operations, information and decision-making.
+Ideas around workflows, operations, information  
+and decision-making.
 
 ### Products
-The rare ideas that survive enough questions to become something real.
+The rare ideas that survive enough questions  
+to become something real.
 
 ---
 
 ## ✦ How an Idea Moves
 
-**Notice → Question → Understand → Reframe → Connect → Experiment → Learn**
+<div align="center">
+
+### Notice → Question → Understand → Reframe → Connect → Experiment → Learn
+
+</div>
 
 Not every idea needs to become a product.
 
@@ -126,7 +135,15 @@ How information can become actionable.
 
 How tiny moments of friction reveal much bigger opportunities.
 
-And how a better question can sometimes be more valuable than a faster answer.
+And how a better question can sometimes be  
+more valuable than a faster answer.
+
+---
+
+## ✦ One Thought I Keep Coming Back To
+
+> **The most interesting opportunities are often hiding inside things  
+> everyone else has already accepted as normal.**
 
 ---
 
