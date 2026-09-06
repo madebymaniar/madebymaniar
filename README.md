@@ -1,88 +1,132 @@
 <div align="center">
 
-<img src="./made-by-maniar.png" width="340" alt="Made by Maniar">
+<img src="./made-by-maniar.png" width="320" alt="Made by Maniar">
 
 ### Ideas, made tangible.
 
-**Ideas shaped by observation, curiosity and real-world problems.**
+**I notice what feels off, question why it works that way,  
+and explore what it could become.**
 
-<br>
-
-`IDEAS` · `EXPERIMENTS` · `CASE NOTES` · `SYSTEMS` · `PRODUCTS`
+`OBSERVE` · `QUESTION` · `CONNECT` · `EXPERIMENT` · `MAKE`
 
 </div>
 
 ---
 
-## ✦ About
+## ✦ This is Maniar
 
-I'm Mahya — creating under the name **Made by Maniar**.
+I'm Mahya — but the ideas live under **Made by Maniar**.
 
-I’m interested in noticing real-world problems, understanding why they exist, and exploring better ways of doing things.
+I rarely start with:
 
-Some ideas remain concepts.  
+**“What should I build?”**
+
+I usually start with:
+
+**“Why is this still like this?”**
+
+A confusing process.  
+An unnecessary step.  
+A frustrating experience.  
+A system that works — but could work much better.
+
+Those little moments are usually where the interesting ideas begin.
+
+I collect friction, question assumptions, connect unlikely dots,  
+and turn observations into things worth exploring.
+
+Some stay as thoughts.  
+Some become sketches.  
+Some become systems.  
 Some become experiments.  
-And some turn into real products.
+A few make it all the way to real products.
 
-For me, the interesting part is the thinking behind them.
-
----
-
-## ◌ What I Explore
-
-- **Product Ideas** — concepts built around real problems
-- **Customer Experience** — making experiences clearer, easier and less frustrating
-- **Systems & Operations** — improving the way people and processes work
-- **Automation Concepts** — removing repetitive and unnecessary work
-- **Monitoring & Insight** — turning information into something actionable
-- **Experiments** — testing whether an idea actually works
+**Made by Maniar is where curiosity gets a prototype. ✦**
 
 ---
 
-## ✦ The Process
+## ✦ What I Notice
 
-**Observe → Question → Understand → Simplify → Design → Experiment → Improve**
+I'm interested in the moments where people quietly think:
 
-I believe good ideas usually don't start with:
+> **“There has to be a better way.”**
 
-> “What can we build?”
+The repetitive task nobody questions.
 
-They start with:
+The process with five steps that should have one.
 
-> **“What problem is worth solving?”**
+The information everyone collects but nobody really uses.
 
----
+The product that works — but still feels wrong.
 
-## ◌ The Lab
+The small inconvenience that reveals a much bigger problem.
 
-This GitHub is my personal idea lab.
-
-You'll find a mix of:
-
-**Ideas**  
-Early thoughts and unexplored opportunities.
-
-**Case Notes**  
-Problems I've observed and how I think they could be approached.
-
-**Experiments**  
-Small prototypes created to test an idea.
-
-**Systems**  
-Concepts focused on workflows, operations and decision-making.
-
-**Products**  
-Ideas that made the journey from thought to something usable.
+I like staying with those moments long enough to find the opportunity hiding inside them.
 
 ---
 
-## ✦ Building Ideas
+## ✦ Questions I Chase
 
-Technology sometimes helps me turn an idea into something testable.
+**What if this took one step instead of five?**
 
-But technology isn't the identity of the work.
+**What if the system noticed the problem before the user did?**
 
-**It's simply one of the tools used to make an idea tangible.**
+**What if data didn't just explain what happened — but suggested what to do next?**
+
+**What if something frustrating could actually feel effortless?**
+
+**What are we accepting as normal simply because nobody questioned it yet?**
+
+Questions are usually where my work starts.
+
+---
+
+## ✦ Things I Make Tangible
+
+### Ideas
+Observations, possibilities and early “what if?” moments.
+
+### Case Notes
+A closer look at a problem, the friction behind it, and possible ways forward.
+
+### Experiments
+Small prototypes created to discover whether an idea deserves to grow.
+
+### Systems
+Ideas around workflows, operations, information and decision-making.
+
+### Products
+The rare ideas that survive enough questions to become something real.
+
+---
+
+## ✦ How an Idea Moves
+
+**Notice → Question → Understand → Reframe → Connect → Experiment → Learn**
+
+Not every idea needs to become a product.
+
+Sometimes an experiment proves an idea is worth building.
+
+Sometimes it proves the opposite.
+
+**Both are progress.**
+
+---
+
+## ✦ Currently Curious About
+
+How products understand people.
+
+How systems make decisions.
+
+How operations can become less reactive.
+
+How information can become actionable.
+
+How tiny moments of friction reveal much bigger opportunities.
+
+And how a better question can sometimes be more valuable than a faster answer.
 
 ---
 
@@ -90,6 +134,6 @@ But technology isn't the identity of the work.
 
 ### MADE BY MANIAR ✦
 
-**Ideas → Experiments → Products**
+**Notice differently. Question better. Make it tangible.**
 
 </div>
